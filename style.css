@@ -1,0 +1,19 @@
+body{
+    margin: 0px auto;
+    background-color: aquamarine;
+    width: 300px;
+
+}
+#dispaly{
+    width: 500px;
+    display: flex;
+}
+.wrapper{
+    flex: 1;
+}
+.wrapper.nama{
+    flex: 1;
+    align-self: center;
+    padding: 50px;
+}
+
